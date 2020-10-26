@@ -14,5 +14,5 @@ This story uses two principal sources of data joined at the hip. The first is th
 
 Link to Visualization Story
 ===========================
-see overview_worldhappiness_visualstory.pdf for reporting and first draft link
+see *overview_worldhappiness_visualstory.pdf* for reporting and first draft link
 https://public.tableau.com/profile/renee.cothern#!/vizhome/world-happiness_visualization/Story-WorldHappiness
